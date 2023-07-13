@@ -1,6 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-<br>
-
 <h3 align="center">My Blog</h3>
 
 <p align="center"><a href="https://aajin126.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
