@@ -1,3 +1,6 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20aajinlee's%20GitHub!&descAlignY=60&descAlign=62"/></div>
+
+
 <h3 align="center">My Blog</h3>
 
 <p align="center"><a href="https://aajin126.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=Tistory&logoColor=white"/></a></p>
